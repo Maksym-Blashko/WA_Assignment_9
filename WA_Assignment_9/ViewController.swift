@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         tableView.dataSource = self
         tableView.tableFooterView = UIView()
     }
+    func testGit() {}
 }
 
 extension ViewController: UITableViewDataSource {
